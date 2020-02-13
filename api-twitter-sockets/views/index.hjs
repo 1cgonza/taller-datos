@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+
+  <title>{{ title }}</title>
+  <link href='http://fonts.googleapis.com/css?family=Inconsolata&display=swap' rel='stylesheet' type='text/css'>
+
+  <link rel='stylesheet' href='app.css' />
+</head>
+
+<body>
+  <header>
+    <div id="terms"></div>
+  </header>
+
+  <div id="metadata">
+    <p>Sentiment score: <span id="score"></span></p>
+    <p id="msg"></p>
+    <p id="time"></p>
+    <p id="user"></p>
+    <p id="location"></p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>

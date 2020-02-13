@@ -1,0 +1,44 @@
+/*==========  NORMALIZE  ==========*/
+* {
+  box-sizing: border-box;
+}
+header,
+canvas,
+.eterna-title {
+  display: block;
+}
+
+/*==========  GENERAL  ==========*/
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: 'Inconsolata', 'Lucida Console', Monaco, monospace;
+  font-weight: 400;
+  color: #fff;
+  background-color: #000;
+}
+
+a {
+  color: #d9d70d;
+  background-color: transparent;
+  text-decoration: none;
+
+  &:active,
+  &:hover {
+    outline: 0;
+    color: #b7b312;
+  }
+}
+
+#terms {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 1em;
+}
+
+#metadata {
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 200px;
+}

@@ -1,0 +1,11 @@
+{
+  "twitter": {
+    "consumerKey": "5Mzeh4TxadlzJ7F2IxlOdNaVB",
+    "consumerSecret": "x4wwDjPy7VBcIHcegA2RHjDgMaE3bv8llzSEqBFlLn9PNp6D6Z",
+    "accessToken": "2439782282-vXgdkNNV8ZYEXeftoItx2xGM9CsiOkaFZcMXyMl",
+    "accessTokenSecret": "uwtfMUdq5hQo5kqCCRZglZn0Tg6D9zkaxaseZ8FBNw9EW"
+  },
+  "openweather": {
+    "key": "fb08d9cd120c13609db1d162c71ed5d0"
+  }
+}

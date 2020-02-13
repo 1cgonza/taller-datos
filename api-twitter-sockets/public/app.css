@@ -1,0 +1,39 @@
+/*==========  NORMALIZE  ==========*/
+* {
+  box-sizing: border-box; }
+
+header,
+canvas,
+.eterna-title {
+  display: block; }
+
+/*==========  GENERAL  ==========*/
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: 'Inconsolata', 'Lucida Console', Monaco, monospace;
+  font-weight: 400;
+  color: #fff;
+  background-color: #000; }
+
+a {
+  color: #d9d70d;
+  background-color: transparent;
+  text-decoration: none; }
+  a:active, a:hover {
+    outline: 0;
+    color: #b7b312; }
+
+#terms {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 1em; }
+
+#metadata {
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 200px; }
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvc2Nzcy9zdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0EseUJBQXlCOztBQUV6QjtBQUNBO0FBQ0E7QUFDQSxpQkFBaUI7O0FBRWpCO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSx5QkFBeUI7O0FBRXpCO0FBQ0E7QUFDQTtBQUNBLHdCQUF3QjtBQUN4QjtBQUNBO0FBQ0EsbUJBQW1COztBQUVuQjtBQUNBO0FBQ0E7QUFDQSxrQkFBa0I7O0FBRWxCO0FBQ0E7QUFDQTtBQUNBLHFCQUFxQiIsImZpbGUiOiJhcHAuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyo9PT09PT09PT09ICBOT1JNQUxJWkUgID09PT09PT09PT0qL1xuKiB7XG4gIGJveC1zaXppbmc6IGJvcmRlci1ib3g7IH1cblxuaGVhZGVyLFxuY2FudmFzLFxuLmV0ZXJuYS10aXRsZSB7XG4gIGRpc3BsYXk6IGJsb2NrOyB9XG5cbi8qPT09PT09PT09PSAgR0VORVJBTCAgPT09PT09PT09PSovXG5ib2R5IHtcbiAgcGFkZGluZzogMDtcbiAgbWFyZ2luOiAwO1xuICBmb250LXNpemU6IDE2cHg7XG4gIGZvbnQtZmFtaWx5OiAnSW5jb25zb2xhdGEnLCAnTHVjaWRhIENvbnNvbGUnLCBNb25hY28sIG1vbm9zcGFjZTtcbiAgZm9udC13ZWlnaHQ6IDQwMDtcbiAgY29sb3I6ICNmZmY7XG4gIGJhY2tncm91bmQtY29sb3I6ICMwMDA7IH1cblxuYSB7XG4gIGNvbG9yOiAjZDlkNzBkO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDtcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB9XG4gIGE6YWN0aXZlLCBhOmhvdmVyIHtcbiAgICBvdXRsaW5lOiAwO1xuICAgIGNvbG9yOiAjYjdiMzEyOyB9XG5cbiN0ZXJtcyB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgZm9udC1zaXplOiAyZW07XG4gIG1hcmdpbi10b3A6IDFlbTsgfVxuXG4jbWV0YWRhdGEge1xuICB3aWR0aDogNjAlO1xuICBtYXJnaW46IDAgYXV0bztcbiAgcGFkZGluZy10b3A6IDIwMHB4OyB9XG4iXSwic291cmNlUm9vdCI6IiJ9*/
