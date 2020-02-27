@@ -6,7 +6,7 @@ boolean primerContacto = false;
 void setup() {
   size(800, 600);
   printArray(Serial.list());
-  String nombrePuerto = Serial.list()[5];
+  String nombrePuerto = Serial.list()[1];
   puerto = new Serial(this, nombrePuerto, 9600);
 }
 
